@@ -97,6 +97,9 @@ main .right .bottom {
   border-radius: 12px;
   display: none;
 }
+.active{
+  display :none;
+}
 @media (max-width: 600px) {
   body {
     height: 800px;
